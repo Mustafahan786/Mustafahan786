@@ -1,41 +1,39 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MustafaMarwat/mustafamarwat/main/GITHUB Banner.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
-<h3 align="center">I'm passionate about Artificial Intelligence, Reinforcement Learning and Robotics. I have previously worked in the fields of Rehabilitation & Soft Robotics, Embedded AI, Signal Processing and Pattern Recognition.</h3>
+# Muhammad Mustafa Khan
 
-<!-- HTML Code -->
+**M.S. researcher in Mechanical and Robotics Engineering at Gwangju Institute of Science and Technology (GIST)**
 
-- 🔭 I’m currently working on **REHABOTICS**
+I design, build, and control physical systems, with a focus on robotics, feedback control, precision mechatronics, and learning from measured signals. I care most about what the hardware does when the model meets it.
 
-- 🌱 I’m currently learning **Reinforcement Learning, Dynamical Systems & Control**
+My current research is the Z-axis of a contact-mode atomic force microscope: measuring and identifying the plant, implementing real-time digital control on an STM32, and testing how faithfully the instrument images as scan speed increases.
 
-- 👯 I’m looking to collaborate on **projects that aims to build AI-based solutions**
+[Portfolio](https://mustafahan786.github.io) · [CV](https://mustafahan786.github.io/cv.html) · [Google Scholar](https://scholar.google.com/citations?user=AgU49wwAAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0001-7310-5765) · [LinkedIn](https://www.linkedin.com/in/mustafa-khan-marwat/)
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/mustafa_portfolio](https://bit.ly/mustafa_portfolio)
+## Current focus
 
-- 📝 I regularly write articles on [https://medium.com/@mustafamarvat786](https://medium.com/@mustafamarvat786)
+- System identification, loop shaping, and embedded feedback control
+- Precision mechatronics, sensing, actuation, and analog front ends
+- Learning-enabled control and anomaly detection for physical systems
+- Real-time biomedical signal processing and rehabilitation robotics
 
-- 💬 Ask me about **AI, ML, DL, RL, and Robotics**
+## Selected work
 
-- 📫 How to reach me **mustafamarvat786@gmail.com**
+| Project | What I worked on |
+| --- | --- |
+| [AFM Z-Axis Identification and Control](https://mustafahan786.github.io/projects/afm-high-speed-control.html) | Plant measurement and identification, digital PI control on an STM32F407 at 18.4 kHz, analog front-end revision, and trace–retrace imaging evaluation from 2 to 20 Hz |
+| [Voice-Coil Actuator Position Control](https://mustafahan786.github.io/projects/voice-coil-actuator.html) | CAD and fabrication of a positioning bench, frequency-response identification, and hardware comparison of six analog compensators |
+| [Induction-Motor Monitoring](https://mustafahan786.github.io/projects/motor-condition-monitoring.html) | Sensor logging, feature engineering, and healthy-baseline anomaly detection with an autoencoder |
+| [Real-Time sEMG Rehabilitation Interfaces](https://mustafahan786.github.io/projects/semg-rehabilitation-interface.html) | Eight-channel signal processing, online gesture classification, and real-time interfaces with one to three degrees of freedom |
+| [Pneumatic Soft Robotic Glove](https://mustafahan786.github.io/projects/soft-robotic-glove.html) | Fibre-reinforced actuator design, printed moulds, silicone casting, and pneumatic-system integration |
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## Research outputs
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mustafa khan marwat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa khan marwat" height="30" width="40" /></a>
-<a href="https://kaggle.com/mustafa marwat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mustafa marwat" height="30" width="40" /></a>
-<a href="https://medium.com/@mustafakhanmarwat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mustafakhanmarwat" height="30" width="40" /></a>
-</p>
+- **Model-Based Digital Proportional-Integral Control for High-Speed Contact-Mode Atomic Force Microscopy Imaging** — poster presented at the 23rd IFAC World Congress, Busan, 2026
+- **MUSED-I: Multi-Gesture Surface Electromyography Dataset for Stroke Rehabilitation** — [dataset](https://doi.org/10.21227/04zq-yz45) · [repository](https://github.com/Mustafahan786/MUSED-1)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafamarwat&show_icons=true&locale=en&layout=compact" alt="mustafamarwat" /></p>
+STM32 · Arduino · Raspberry Pi · MATLAB/Simulink · Python · SolidWorks · ANSYS · LabVIEW
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafamarwat&show_icons=true&locale=en" alt="mustafamarwat" /></p>
+I am open to Ph.D. opportunities and research collaboration in control, precision mechatronics, and learning-enabled control of physical systems.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafamarwat&" alt="mustafamarwat" /></p>
-
+**Contact:** [mustafamarvat786@gm.gist.ac.kr](mailto:mustafamarvat786@gm.gist.ac.kr)
